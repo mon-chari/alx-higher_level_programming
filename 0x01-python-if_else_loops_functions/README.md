@@ -11,3 +11,4 @@
 10. a + b
 11. a ^ b
 12. Fizz Buzz
+Advanced tasks
